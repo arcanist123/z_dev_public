@@ -102,7 +102,7 @@ CLASS z_1c_json_to_upd_parser IMPLEMENTATION.
 
   METHOD get_document_json_from_base64.
 
-*Convert Base64 string to XString.
+    "Convert Base64 string to XString.
     DATA: lv_xstring TYPE xstring,       "Xstring
           lv_len     TYPE i,                  "Length
           lt_content TYPE soli_tab,      "Content

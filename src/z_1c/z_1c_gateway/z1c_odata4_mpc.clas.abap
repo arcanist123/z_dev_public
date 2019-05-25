@@ -5,6 +5,11 @@ CLASS z1c_odata4_mpc DEFINITION
   CREATE PUBLIC .
 
   PUBLIC SECTION.
+    TYPES:
+      BEGIN OF t_data,
+        file_name TYPE string,
+        file_data TYPE string,
+      END OF t_data.
     CONSTANTS:
       BEGIN OF gc_entity_name,
         file_data TYPE /iwbep/if_v4_med_types=>ty_e_med_internal_name  VALUE 'file_data',
@@ -39,11 +44,7 @@ CLASS z1c_odata4_mpc IMPLEMENTATION.
     """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
     "   Create entity type
     """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
-    TYPES:
-      BEGIN OF t_data,
-        file_name TYPE string,
-        file_data TYPE string,
-      END OF t_data.
+
     DATA ls_data TYPE t_data.
     DATA(lo_entity_type) = io_model->create_entity_type_by_struct(
         iv_entity_type_name          = gc_entity_name-file_data
