@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>test</CTEXT>
+    <CTEXT>$Z_TEST_SAPUI5_2</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>

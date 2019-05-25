@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>https://blogs.sap.com/2015/02/12/e2e-bopf-sadl-gw-sapui5-int</CTEXT>
+    <CTEXT>$Z_TEST_BOPF_SADL_UI5</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>

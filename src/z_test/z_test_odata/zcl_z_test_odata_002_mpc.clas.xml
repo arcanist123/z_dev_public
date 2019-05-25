@@ -10,20 +10,6 @@
     <FIXPT>X</FIXPT>
     <UNICODE>X</UNICODE>
    </VSEOCLASS>
-   <TPOOL>
-    <item>
-     <ID>I</ID>
-     <KEY>001</KEY>
-     <ENTRY>source string</ENTRY>
-     <LENGTH>132</LENGTH>
-    </item>
-    <item>
-     <ID>I</ID>
-     <KEY>002</KEY>
-     <ENTRY>result of compression</ENTRY>
-     <LENGTH>132</LENGTH>
-    </item>
-   </TPOOL>
    <DESCRIPTIONS>
     <SEOCOMPOTX>
      <CLSNAME>ZCL_Z_TEST_ODATA_002_MPC</CLSNAME>

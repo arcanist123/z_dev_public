@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>1C integration</CTEXT>
+    <CTEXT>$Z_1C</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>
