@@ -1,0 +1,47 @@
+class ZCLZZ_WF_DEMO_CLASS definition
+  public
+  final
+  create public .
+
+public section.
+  interfaces BI_OBJECT .
+  interfaces BI_PERSISTENT .
+  interfaces IF_WORKFLOW .
+protected section.
+private section.
+ENDCLASS.
+
+
+
+CLASS ZCLZZ_WF_DEMO_CLASS IMPLEMENTATION.
+
+
+  METHOD BI_OBJECT~DEFAULT_ATTRIBUTE_VALUE.
+
+  ENDMETHOD.
+
+
+  METHOD BI_OBJECT~EXECUTE_DEFAULT_METHOD.
+
+  ENDMETHOD.
+
+
+  METHOD BI_OBJECT~RELEASE.
+
+  ENDMETHOD.
+
+
+  METHOD BI_PERSISTENT~FIND_BY_LPOR.
+
+  ENDMETHOD.
+
+
+  METHOD BI_PERSISTENT~LPOR.
+
+  ENDMETHOD.
+
+
+  METHOD BI_PERSISTENT~REFRESH.
+
+  ENDMETHOD.
+ENDCLASS.

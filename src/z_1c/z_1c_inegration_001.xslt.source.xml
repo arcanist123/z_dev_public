@@ -1,0 +1,20 @@
+<?sap.transform simple?>
+<tt:transform xmlns:tt="http://www.sap.com/transformation-templates" xmlns:ddic="http://www.sap.com/abapxml/types/dictionary" xmlns:def="http://www.sap.com/abapxml/types/defined" template="TEMP" version="0.1">
+  <tt:root name="PARA" type="?"/>
+  <tt:template name="TEMP">
+    <X>
+      <X1>
+        <tt:value ref="PARA.COL1"/>
+      </X1>
+      <X2>
+        <tt:value ref="PARA.COL2"/>
+      </X2>
+      <X2>
+        <tt:copy ref="PARA.STRUC2"/>
+      </X2>
+    </X>
+    <Файл>
+      <tt:copy ref=".PARA"/>
+    </Файл>
+  </tt:template>
+</tt:transform>

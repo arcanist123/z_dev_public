@@ -1,0 +1,22 @@
+CLASS zcl_z_test_odata_001_dpc_ext DEFINITION
+  PUBLIC
+  INHERITING FROM zcl_z_test_odata_001_dpc
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+  PROTECTED SECTION.
+
+    METHODS flightset_get_entityset
+        REDEFINITION .
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS ZCL_Z_TEST_ODATA_001_DPC_EXT IMPLEMENTATION.
+
+
+  METHOD flightset_get_entityset.
+    SELECT * FROM sflight INTO CORRESPONDING FIELDS OF TABLE et_entityset.
+  ENDMETHOD.
+ENDCLASS.

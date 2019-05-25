@@ -1,0 +1,17 @@
+CLASS zcl_z_file_upload_01_dpc_ext DEFINITION
+  PUBLIC
+  INHERITING FROM zcl_z_file_upload_01_dpc
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+
+
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_z_file_upload_01_dpc_ext IMPLEMENTATION.
+
+ENDCLASS.

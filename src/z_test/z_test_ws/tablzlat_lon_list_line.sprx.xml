@@ -1,0 +1,126 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SPRX" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <PROXY_HEADER>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZLAT_LON_LIST_LINE</OBJ_NAME>
+     <OBJECT_M>TABL</OBJECT_M>
+     <OBJ_NAME_M>ZLAT_LON_LIST_LINE</OBJ_NAME_M>
+     <HASH_ID>1EE1E631487AA35DCE74245232943B66C8F894EB</HASH_ID>
+     <ID>&lt;message&gt; LatLonListLine https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl</ID>
+     <IFR_GLOBAL>X</IFR_GLOBAL>
+     <IFR_TYPE>message</IFR_TYPE>
+     <IFR_NAME>LatLonListLine</IFR_NAME>
+     <IFR_NSPCE>https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl</IFR_NSPCE>
+     <IFR_GNSPCE>https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl</IFR_GNSPCE>
+     <GEN_VERS>0006</GEN_VERS>
+     <PREFIX>Z</PREFIX>
+     <CATEGORY>ifmmessage</CATEGORY>
+     <GEN_APPL>WEBSERVICES</GEN_APPL>
+     <X-ML_NSPCE>https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl</X-ML_NSPCE>
+     <X-ML_NAME>LatLonListLine</X-ML_NAME>
+    </item>
+   </PROXY_HEADER>
+   <PROXY_DATA>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZLAT_LON_LIST_LINE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>END_POINT1LAT</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>END_POINT1LAT</OBJ_NAME2>
+     <ID>&lt;element&gt; endPoint1Lat &lt;message&gt; LatLonListLine https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>endPoint1Lat</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>decimal</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>END_POINT1LAT</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000001</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZLAT_LON_LIST_LINE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>END_POINT1LON</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>END_POINT1LON</OBJ_NAME2>
+     <ID>&lt;element&gt; endPoint1Lon &lt;message&gt; LatLonListLine https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>endPoint1Lon</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>decimal</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>END_POINT1LON</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000002</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZLAT_LON_LIST_LINE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>END_POINT2LAT</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>END_POINT2LAT</OBJ_NAME2>
+     <ID>&lt;element&gt; endPoint2Lat &lt;message&gt; LatLonListLine https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>endPoint2Lat</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>decimal</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>END_POINT2LAT</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000003</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZLAT_LON_LIST_LINE</OBJ_NAME>
+     <OBJECT1>FIEL</OBJECT1>
+     <OBJ_NAME1>END_POINT2LON</OBJ_NAME1>
+     <OBJECT2>FIEL</OBJECT2>
+     <OBJ_NAME2>END_POINT2LON</OBJ_NAME2>
+     <ID>&lt;element&gt; endPoint2Lon &lt;message&gt; LatLonListLine https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl</ID>
+     <IFR_TYPE>element</IFR_TYPE>
+     <IFR_NAME>endPoint2Lon</IFR_NAME>
+     <IFR_TAGTYP>E</IFR_TAGTYP>
+     <IFR_MINOCC>1</IFR_MINOCC>
+     <IFR_MAXOCC>1</IFR_MAXOCC>
+     <IFR_XSDTYP>decimal</IFR_XSDTYP>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>FIEL</R3_TYPE>
+     <R3_NAME>END_POINT2LON</R3_NAME>
+     <R3_DATATYP>STRG</R3_DATATYP>
+     <R3_SEQNUM>000004</R3_SEQNUM>
+    </item>
+    <item>
+     <OBJECT>TABL</OBJECT>
+     <OBJ_NAME>ZLAT_LON_LIST_LINE</OBJ_NAME>
+     <OBJECT1>TABL</OBJECT1>
+     <OBJ_NAME1>ZLAT_LON_LIST_LINE</OBJ_NAME1>
+     <OBJECT2>TABL</OBJECT2>
+     <OBJ_NAME2>ZLAT_LON_LIST_LINE</OBJ_NAME2>
+     <ID>&lt;message&gt; LatLonListLine https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl https://graphical.weather.gov/xml/DWMLgen/wsdl/ndfdXML.wsdl</ID>
+     <IFR_TYPE>message</IFR_TYPE>
+     <IFR_NAME>LatLonListLine</IFR_NAME>
+     <IFR_SCALE>-2</IFR_SCALE>
+     <R3_TYPE>TABL</R3_TYPE>
+     <R3_NAME>ZLAT_LON_LIST_LINE</R3_NAME>
+     <R3_TEXT>Proxy Structure (generated)</R3_TEXT>
+     <CATEGORY>ifmmessage</CATEGORY>
+    </item>
+   </PROXY_DATA>
+  </asx:values>
+ </asx:abap>
+</abapGit>

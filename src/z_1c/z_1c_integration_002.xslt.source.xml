@@ -1,0 +1,8 @@
+<?sap.transform simple?>
+<tt:transform xmlns:tt="http://www.sap.com/transformation-templates" xmlns:ddic="http://www.sap.com/abapxml/types/dictionary" xmlns:def="http://www.sap.com/abapxml/types/defined">
+  <tt:root name="ROOT1" type="ddic:SFLIGHT"/>
+  <tt:template>
+    <tt:attribute name="Файл" value-ref=".ROOT1.MANDT"/>
+    <СвУчДокОбор/>
+  </tt:template>
+</tt:transform>

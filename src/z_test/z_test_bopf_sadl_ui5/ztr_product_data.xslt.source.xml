@@ -1,0 +1,102 @@
+<?sap.transform simple?>
+<tt:transform xmlns:tt="http://www.sap.com/transformation-templates">
+
+  <tt:root name="PRODUCTS"/>
+
+  <tt:template>
+    <productData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+      <tt:loop name="line" ref=".PRODUCTS">
+        <product>
+          <product_id>
+            <tt:value ref="$ref.PRODUCT_ID"/>
+          </product_id>
+          <type_code>
+            <tt:value ref="$ref.TYPE_CODE"/>
+          </type_code>
+          <category_id>
+            <tt:value ref="$ref.CATEGORY_ID"/>
+          </category_id>
+          <main_category>
+            <tt:value ref="$ref.MAIN_CATEGORY"/>
+          </main_category>
+          <tax_tarif_code>
+            <tt:value ref="$ref.TAX_TARIF_CODE"/>
+          </tax_tarif_code>
+          <measure_unit>
+            <tt:value ref="$ref.MEASURE_UNIT"/>
+          </measure_unit>
+          <weight_measure>
+            <tt:value ref="$ref.WEIGHT_MEASURE"/>
+          </weight_measure>
+          <weight_unit>
+            <tt:value ref="$ref.WEIGHT_UNIT"/>
+          </weight_unit>
+
+          <description>
+            <langu>
+              <tt:value ref="$ref.DESCRIPTION.LANGU"/>
+            </langu>
+            <text>
+              <tt:value ref="$ref.DESCRIPTION.TEXT"/>
+            </text>
+          </description>
+
+          <tt:loop ref="$line.prod_name">
+            <prod_name>
+              <langu>
+                <tt:value ref="$ref.PROD_NAME.LANGU"/>
+              </langu>
+              <name>
+                <tt:value ref="$ref.PROD_NAME.NAME"/>
+              </name>
+            </prod_name>
+          </tt:loop>
+          <web_resource>
+            <tt:d-cond>
+              <web_adress>
+                <tt:value ref="$ref.WEB_RESOURCE.WEB_ADDRESS"/>
+              </web_adress>
+            </tt:d-cond>
+            <detail_description>
+              <tt:d-cond>
+                <langu>
+                  <tt:value ref="$ref.WEB_RESOURCE.DETAIL_DESCRIPTION.LANGU"/>
+                </langu>
+              </tt:d-cond>
+              <tt:d-cond>
+                <text>
+                  <tt:value ref="$ref.WEB_RESOURCE.DETAIL_DESCRIPTION.TEXT"/>
+                </text>
+              </tt:d-cond>
+            </detail_description>
+            <tt:d-cond>
+              <type>
+                <tt:value ref="$ref.WEB_RESOURCE.TYPE"/>
+              </type>
+            </tt:d-cond>
+          </web_resource>
+          <tt:d-cond>
+            <price>
+              <tt:value ref="$ref.PRICE"/>
+            </price>
+          </tt:d-cond>
+          <dimensions>
+            <width>
+              <tt:value ref="$ref.DIMENSIONS.WIDTH"/>
+            </width>
+            <depth>
+              <tt:value ref="$ref.DIMENSIONS.DEPTH"/>
+            </depth>
+            <height>
+              <tt:value ref="$ref.DIMENSIONS.HEIGHT"/>
+            </height>
+            <unit>
+              <tt:value ref="$ref.DIMENSIONS.UNIT"/>
+            </unit>
+          </dimensions>
+        </product>
+      </tt:loop>
+    </productData>
+  </tt:template>
+
+</tt:transform>
