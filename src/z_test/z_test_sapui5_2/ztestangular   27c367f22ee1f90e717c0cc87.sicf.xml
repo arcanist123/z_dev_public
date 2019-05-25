@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SICF" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <URL>/sap/bc/bsp/sap/ztestangular/</URL>
+   <ICFSERVICE>
+    <ICF_NAME>ZTESTANGULAR</ICF_NAME>
+    <ALIASLOGIN>X</ALIASLOGIN>
+    <ICFBITMAP>00000000</ICFBITMAP>
+    <ORIG_NAME>ztestangular</ORIG_NAME>
+   </ICFSERVICE>
+   <ICFDOCU>
+    <ICF_NAME>ZTESTANGULAR</ICF_NAME>
+    <ICF_LANGU>E</ICF_LANGU>
+    <ICF_DOCU>Test of angular</ICF_DOCU>
+   </ICFDOCU>
+  </asx:values>
+ </asx:abap>
+</abapGit>

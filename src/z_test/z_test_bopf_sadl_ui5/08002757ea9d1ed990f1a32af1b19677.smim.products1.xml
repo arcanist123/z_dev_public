@@ -1,0 +1,4058 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<productData xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <product>
+    <product_id>HT-1000</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook Basic 15 with 2,80 GHz quad core, 15" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>基础版笔记本电脑 15</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1000.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of HT-1000</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>956</price>
+    <dimensions>
+      <width>30</width>
+      <depth>18</depth>
+      <height>3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1001</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.5</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook Basic 17 with 2,80 GHz quad core, 17" LCD, 4 GB DDR3 RAM, 500 GB Hard Disc, Windows 8 Pro</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>基础版笔记本电脑 17</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1001.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Notebook Basic 17</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1249</price>
+    <dimensions>
+      <width>29</width>
+      <depth>17</depth>
+      <height>3.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1002</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook Basic 18 with 2,80 GHz quad core, 18" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>基础版笔记本电脑 18</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1002.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Notebook Basic 18</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1570</price>
+    <dimensions>
+      <width>28</width>
+      <depth>19</depth>
+      <height>2.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1003</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook Basic 19 with 2,80 GHz quad core, 19" LCD, 8 GB DDR3 RAM, 1000 GB Hard Disc, Windows 8 Pro</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>基础版笔记本电脑 19</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1003.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Notebook Basic 19</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1650</price>
+    <dimensions>
+      <width>32</width>
+      <depth>21</depth>
+      <height>4</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1007</product_id>
+    <type_code>PR</type_code>
+    <category_id>PDAs &amp; Organizers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Digital Organizer with State-of-the-Art Storage Encryption</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ITelO Vault</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1007.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the 1UMTS PDA</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>299</price>
+    <dimensions>
+      <width>32</width>
+      <depth>22</depth>
+      <height>3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1010</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook Professional 15 with 2,80 GHz quad core, 15" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>专业版笔记本电脑 15</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1010.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Notebook Professional 15</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1999</price>
+    <dimensions>
+      <width>33</width>
+      <depth>20</depth>
+      <height>3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1011</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.1</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook Professional 17 with 2,80 GHz quad core, 17" Multitouch LCD, 8 GB DDR3 RAM, 500 GB SSD - DVD-Writer (DVD-R/+R/-RW/-RAM),Windows 8 Pro</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>专业版笔记本电脑 17</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1011.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Notebook Professional 17</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>2299</price>
+    <dimensions>
+      <width>33</width>
+      <depth>23</depth>
+      <height>2</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1020</product_id>
+    <type_code>PR</type_code>
+    <category_id>PDAs &amp; Organizers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.16</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Digital Organizer with State-of-the-Art Encryption for Storage and Network Communications</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ITelO Vault Net</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1020.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Easy Hand III</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>459</price>
+    <dimensions>
+      <width>10</width>
+      <depth>1.8</depth>
+      <height>17</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1021</product_id>
+    <type_code>PR</type_code>
+    <category_id>PDAs &amp; Organizers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.18</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Digital Organizer with State-of-the-Art Encryption for Storage and Secure Stellite Link</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ITelO Vault SAT</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1021.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Easy Hand V</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>149</price>
+    <dimensions>
+      <width>11</width>
+      <depth>1.7</depth>
+      <height>18</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1022</product_id>
+    <type_code>PR</type_code>
+    <category_id>PDAs &amp; Organizers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>32 GB Digital Assistant with high-resolution color screen</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>简单舒适</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1022.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Easy Hand VII</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1679</price>
+    <dimensions>
+      <width>84</width>
+      <depth>1.5</depth>
+      <height>14</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1023</product_id>
+    <type_code>PR</type_code>
+    <category_id>PDAs &amp; Organizers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>64 GB Digital Assistant with high-resolution color screen and synthesized voice output</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>高端舒适</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1023.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Easy Power</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>512</price>
+    <dimensions>
+      <width>80</width>
+      <depth>1.6</depth>
+      <height>13</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1030</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen Monitors</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>21</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optimum Hi-Resolution max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>人体工学显示器 E-I</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1030.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Ergo Screen</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>230</price>
+    <dimensions>
+      <width>37</width>
+      <depth>12</depth>
+      <height>36</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1031</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen Monitors</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>21</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optimum Hi-Resolution max. 1920 x 1200 @ 85Hz, Dot Pitch: 0.26mm</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>人体工学显示器 E-II</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1031.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Easy Pixel</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>285</price>
+    <dimensions>
+      <width>40.8</width>
+      <depth>19</depth>
+      <height>43</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1032</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen Monitors</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>21</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optimum Hi-Resolution max. 2560 x 1440 @ 85Hz, Dot Pitch: 0.25mm</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>人体工学显示器 E-III</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1032.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Beam Screen</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>345</price>
+    <dimensions>
+      <width>40.8</width>
+      <depth>19</depth>
+      <height>43</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1035</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen Monitors</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>14</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optimum Hi-Resolution max. 1600 x 1200 @ 85Hz, Dot Pitch: 0.24mm</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>基础版纯平显示器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1035.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Flat Basic 15</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>399</price>
+    <dimensions>
+      <width>39</width>
+      <depth>20</depth>
+      <height>41</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1036</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen Monitors</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>15</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optimum Hi-Resolution max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.26mm</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>领先版纯平显示器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1036.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Flat Future</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>430</price>
+    <dimensions>
+      <width>45</width>
+      <depth>26</depth>
+      <height>46</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1037</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen Monitors</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>17</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optimum Hi-Resolution max. 2016 x 1512 @ 85Hz, Dot Pitch: 0.24mm</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>超大尺寸纯平显示器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1037.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Flat X-large</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1230</price>
+    <dimensions>
+      <width>54.5</width>
+      <depth>22.1</depth>
+      <height>39.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1040</product_id>
+    <type_code>PR</type_code>
+    <category_id>Laser Printers</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>32</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Print 2400 dpi image quality color documents at speeds of up to 32 ppm (color) or 36 ppm (monochrome), letter/A4. Powerful 500 MHz processor, 512MB of memory</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>专业版环保型激光打印机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1040.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Laser Professional Eco</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>830</price>
+    <dimensions>
+      <width>51</width>
+      <depth>46</depth>
+      <height>30</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1041</product_id>
+    <type_code>PR</type_code>
+    <category_id>Laser Printers</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>23</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Up to 22 ppm color or 24 ppm monochrome A4/letter, powerful 500 MHz processor and 128MB of memory</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>基础版激光打印机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1041.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Laser Basic</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>490</price>
+    <dimensions>
+      <width>48</width>
+      <depth>42</depth>
+      <height>26</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1042</product_id>
+    <type_code>PR</type_code>
+    <category_id>Laser Printers</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>17</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Print up to 25 ppm letter and 24 ppm A4 color or monochrome, with a first-page-out-time of less than 13 seconds for monochrome and less than 15 seconds for color</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>全能型激光打印机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1042.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Laser Allround</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>349</price>
+    <dimensions>
+      <width>53</width>
+      <depth>50</depth>
+      <height>65</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1050</product_id>
+    <type_code>PR</type_code>
+    <category_id>Ink Jet Printers</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB, Ethernet</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>超清全彩色喷墨打印机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1050.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Deskjet Super Color</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>139</price>
+    <dimensions>
+      <width>41</width>
+      <depth>41</depth>
+      <height>28</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1051</product_id>
+    <type_code>PR</type_code>
+    <category_id>Ink Jet Printers</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>1.9</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>1000 dpi x 1000 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB - excellent dimensions for the small office</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>便携式超清喷墨打印机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1051.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Deskjet Mobile</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>99</price>
+    <dimensions>
+      <width>46</width>
+      <depth>32</depth>
+      <height>25</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1052</product_id>
+    <type_code>PR</type_code>
+    <category_id>Ink Jet Printers</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>18</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>4800 dpi x 1200 dpi - up to 35 ppm (mono) / up to 34 ppm (color) - capacity: 250 sheets - Hi-Speed USB2.0, Ethernet</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>超清超高速喷墨打印机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1052.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Deskjet Super Highspeed</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>170</price>
+    <dimensions>
+      <width>41</width>
+      <depth>41</depth>
+      <height>28</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1055</product_id>
+    <type_code>PR</type_code>
+    <category_id>Multifunction Printers</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>6.3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>1000 dpi x 1000 dpi - up to 16 ppm (mono) / up to 15 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 1200dpi x 2400dpi)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>多功能打印机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1055.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Multi Print</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>99</price>
+    <dimensions>
+      <width>55</width>
+      <depth>45</depth>
+      <height>29</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1056</product_id>
+    <type_code>PR</type_code>
+    <category_id>Multifunction Printers</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>1200 dpi x 1200 dpi - up to 25 ppm (mono) / up to 24 ppm (color)- capacity 80 sheets - scanner (216 x 297 mm, 2400dpi x 4800dpi, high resolution)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>多功能彩色打印机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1056.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Multi Color</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>119</price>
+    <dimensions>
+      <width>51</width>
+      <depth>41.3</depth>
+      <height>22</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1060</product_id>
+    <type_code>PR</type_code>
+    <category_id>Mice</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.09</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Cordless Optical USB Mice, Laptop, Color: Black, Plug&amp;Play</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>עכבר אלחוטי</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1060.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Cordless Mouse</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>9</price>
+    <dimensions>
+      <width>6</width>
+      <depth>14.5</depth>
+      <height>3.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1061</product_id>
+    <type_code>PR</type_code>
+    <category_id>Mice</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.09</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optical USB, PS/2 Mouse, Color: Blue, 3-button-functionality (incl. Scroll wheel)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Speed-Computermaus</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1061.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Speed Mouse</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>7</price>
+    <dimensions>
+      <width>7</width>
+      <depth>15</depth>
+      <height>3.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1062</product_id>
+    <type_code>PR</type_code>
+    <category_id>Mice</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.03</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optical USB Mouse, Color: Red, 5-button-functionality(incl. Scroll wheel), Plug&amp;Play</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Trackball-Maus</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1062.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Track Mouse</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>11</price>
+    <dimensions>
+      <width>3</width>
+      <depth>7</depth>
+      <height>4</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1063</product_id>
+    <type_code>PR</type_code>
+    <category_id>Keyboards</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.1</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Ergonomic USB Keyboard for Desktop, Plug&amp;Play</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Ergonomische Tastatur</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1063.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Ergonomic</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>14</price>
+    <dimensions>
+      <width>50</width>
+      <depth>21</depth>
+      <height>3.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1064</product_id>
+    <type_code>PR</type_code>
+    <category_id>Keyboards</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>1.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Corded Keyboard with special keys for Internet Usability, USB</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Internet-Tastatur</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1064.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Internet Keyboard</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>16</price>
+    <dimensions>
+      <width>52</width>
+      <depth>25</depth>
+      <height>3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1065</product_id>
+    <type_code>PR</type_code>
+    <category_id>Keyboards</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Corded Ergonomic Keyboard with special keys for Media Usability, USB</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Medien-Tastatur</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1065.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Media Keyboard</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>26</price>
+    <dimensions>
+      <width>51.4</width>
+      <depth>23</depth>
+      <height>4</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1066</product_id>
+    <type_code>PR</type_code>
+    <category_id>Mousepads</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>80</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Nice mouse pad with ITelO Logo</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Mauspad</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1066.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Mousepad</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>6.99</price>
+    <dimensions>
+      <width>15</width>
+      <depth>6</depth>
+      <height>0.2</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1067</product_id>
+    <type_code>PR</type_code>
+    <category_id>Mousepads</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>80</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Ergonomic mouse pad with ITelO Logo</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Ergonomisches Mauspad</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1067.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Ergo Mousepad</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>8.99</price>
+    <dimensions>
+      <width>15</width>
+      <depth>6</depth>
+      <height>0.2</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1068</product_id>
+    <type_code>PR</type_code>
+    <category_id>Mousepads</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>90</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>ITelO Mousepad Special Edition</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Designer-Mauspad</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1068.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Designer Mousepad</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>12.99</price>
+    <dimensions>
+      <width>24</width>
+      <depth>24</depth>
+      <height>0.6</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1069</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>45</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Universal card reader</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>קורא כרטיסים אוניברסאלי</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1069.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the universal card reader</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>14</price>
+    <dimensions>
+      <width>6</width>
+      <depth>6</depth>
+      <height>3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1070</product_id>
+    <type_code>PR</type_code>
+    <category_id>Graphic Cards</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.255</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Proctra X: PCI-E GDDR5 3072MB</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Proctra X</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1070.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Proctra X</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>70.9</price>
+    <dimensions>
+      <width>22</width>
+      <depth>35</depth>
+      <height>17</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1071</product_id>
+    <type_code>PR</type_code>
+    <category_id>Graphic Cards</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Gladiator XLN: PCI-E GDDR5 3072MB DVI Out, TV Out low-noise</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Gladiator MX</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1071.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Gladiator MX</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>81.7</price>
+    <dimensions>
+      <width>22</width>
+      <depth>35</depth>
+      <height>17</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1072</product_id>
+    <type_code>PR</type_code>
+    <category_id>Graphic Cards</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.4</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Hurricane GX: PCI-E 691 GFLOPS game-optimized</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Hurricane GX</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1072.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Hurricane GX</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>101.2</price>
+    <dimensions>
+      <width>22</width>
+      <depth>35</depth>
+      <height>17</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1073</product_id>
+    <type_code>PR</type_code>
+    <category_id>Graphic Cards</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.4</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Hurricane GX/LN: PCI-E 691 GFLOPS game-optimized, low-noise.</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Hurricane GX/LN</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1073.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Psimax</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>139.99</price>
+    <dimensions>
+      <width>22</width>
+      <depth>35</depth>
+      <height>17</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1080</product_id>
+    <type_code>PR</type_code>
+    <category_id>Scanners</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Flatbed scanner - 9.600 × 9.600 dpi - 216 x 297 mm - Hi-Speed USB - Bluetooth</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>照片扫描仪</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1080.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Photo Scan</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>129</price>
+    <dimensions>
+      <width>34</width>
+      <depth>48</depth>
+      <height>5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1081</product_id>
+    <type_code>PR</type_code>
+    <category_id>Scanners</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.4</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Flatbed scanner - 9.600 × 9.600 dpi - 216 x 297 mm - SCSI for backward compatibility</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>增强型扫描仪</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1081.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Power Scan</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>89</price>
+    <dimensions>
+      <width>31</width>
+      <depth>43</depth>
+      <height>7</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1082</product_id>
+    <type_code>PR</type_code>
+    <category_id>Scanners</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Flatbed scanner - Letter - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>专业版射流扫描仪</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1082.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Jet Scan Professional</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>169</price>
+    <dimensions>
+      <width>33</width>
+      <depth>41</depth>
+      <height>12</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1083</product_id>
+    <type_code>PR</type_code>
+    <category_id>Scanners</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Flatbed scanner - A4 - 2400 dpi x 2400 dpi - 216 x 297 mm - add-on module</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>专业版射流扫描仪</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1083.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Jet Scan Professional</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>189</price>
+    <dimensions>
+      <width>35</width>
+      <depth>40</depth>
+      <height>10</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1085</product_id>
+    <type_code>PR</type_code>
+    <category_id>Multifunction Printers</category_id>
+    <main_category>Printers &amp; Scanners</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>23.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Copymaster</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Copymaster 多功能打印机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1085.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Copymaster</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1499</price>
+    <dimensions>
+      <width>45</width>
+      <depth>42</depth>
+      <height>22</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1090</product_id>
+    <type_code>PR</type_code>
+    <category_id>Speakers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>PC multimedia speakers - 5 Watt (Total)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>环绕式扬声器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1090.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Surround Sound</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>39</price>
+    <dimensions>
+      <width>12</width>
+      <depth>10</depth>
+      <height>16</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1091</product_id>
+    <type_code>PR</type_code>
+    <category_id>Speakers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>1.4</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>PC multimedia speakers - 10 Watt (Total) - 2-way</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>终极声霸扬声器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1091.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Blaster Extreme</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>26</price>
+    <dimensions>
+      <width>13</width>
+      <depth>11</depth>
+      <height>17.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1092</product_id>
+    <type_code>PR</type_code>
+    <category_id>Speakers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.1</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>PC multimedia speakers - optimized for Blutooth/A2DP</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>增强型扬声器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1092.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Sound Booster</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>45</price>
+    <dimensions>
+      <width>12.4</width>
+      <depth>10.4</depth>
+      <height>18.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1100</product_id>
+    <type_code>PR</type_code>
+    <category_id>Software</category_id>
+    <main_category>Software</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>1.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Complete package, 1 User, Office Applications (word processing, spreadsheet, presentations)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>智能办公套件</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1100.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Smart Office</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>89.9</price>
+    <dimensions>
+      <width>15</width>
+      <depth>6.5</depth>
+      <height>2.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1101</product_id>
+    <type_code>PR</type_code>
+    <category_id>Software</category_id>
+    <main_category>Software</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Complete package, 1 User, Image editing, processing</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>智能设计套件</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1101.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Smart Design</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>79.9</price>
+    <dimensions>
+      <width>14</width>
+      <depth>6.7</depth>
+      <height>24</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1102</product_id>
+    <type_code>PR</type_code>
+    <category_id>Software</category_id>
+    <main_category>Software</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Complete package, 1 User, Network Software Utilities, Useful Applications and Documentation</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>智能网络套件</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1102.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Smart Network</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>69</price>
+    <dimensions>
+      <width>16</width>
+      <depth>6</depth>
+      <height>27</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1103</product_id>
+    <type_code>PR</type_code>
+    <category_id>Software</category_id>
+    <main_category>Software</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Complete package, 1 User, different Multimedia applications, playing music, watching DVDs, only with this Smart package</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>智能多媒体套件</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1103.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Smart Multimedia</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>77</price>
+    <dimensions>
+      <width>11</width>
+      <depth>3.4</depth>
+      <height>22</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1104</product_id>
+    <type_code>PR</type_code>
+    <category_id>Software</category_id>
+    <main_category>Software</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>1.1</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Complete package, 1 User, various games for amusement, logic, action, jump&amp;run</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>智能游戏套件</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1104.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Smart Games</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>55</price>
+    <dimensions>
+      <width>10</width>
+      <depth>3</depth>
+      <height>30</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1105</product_id>
+    <type_code>PR</type_code>
+    <category_id>Software</category_id>
+    <main_category>Software</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.7</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Complete package, 1 User, highly recommended for internet users as anti-virus protection</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>智能网络杀毒套件</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1105.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Smart Internet Antivirus</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>29</price>
+    <dimensions>
+      <width>16</width>
+      <depth>4</depth>
+      <height>21</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1106</product_id>
+    <type_code>PR</type_code>
+    <category_id>Software</category_id>
+    <main_category>Software</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.9</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Complete package, 1 User, recommended for internet users, protect your PC against cyber-crime</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>智能防火墙套件</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1106.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Smart Firewall</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>34</price>
+    <dimensions>
+      <width>17.9</width>
+      <depth>4.2</depth>
+      <height>23.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1107</product_id>
+    <type_code>PR</type_code>
+    <category_id>Software</category_id>
+    <main_category>Software</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.5</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Complete package, 1 User, bring your money in your mind, see what you have and what you want</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>智能理财套件</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1107.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Smart Money</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>29.9</price>
+    <dimensions>
+      <width>12</width>
+      <depth>1.5</depth>
+      <height>19</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1110</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.03</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Robust 3m anti-burglary protection for your laptop computer</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>PC-Schloss</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1110.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the PC Lock</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>8.9</price>
+    <dimensions>
+      <width>20</width>
+      <depth>8</depth>
+      <height>4.3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1111</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.02</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Robust 1m anti-burglary protection for your desktop computer</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Notebook-Schloss</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1111.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Notebook Lock</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>6.9</price>
+    <dimensions>
+      <width>31</width>
+      <depth>9</depth>
+      <height>7</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1112</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.075</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Color webcam, color, High-Speed USB</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>高清网络摄像头</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1112.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Web cam reality</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>39</price>
+    <dimensions>
+      <width>9</width>
+      <depth>8.2</depth>
+      <height>1.3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1113</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.05</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>10 separately packed screen wipes</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Bildschirmreiniger</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1113.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Screen Clean</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>2.3</price>
+    <dimensions>
+      <width>2</width>
+      <depth>2</depth>
+      <height>0.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1114</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>1.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook bag, plenty of room for stationery and writing materials</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Stofftasche Professional</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1114.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the fabric bag professional</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>31</price>
+    <dimensions>
+      <width>42</width>
+      <depth>32</depth>
+      <height>7</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1115</product_id>
+    <type_code>PR</type_code>
+    <category_id>Telecommunications</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.45</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Wireless DSL Router (available in blue, black and silver)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>נתב אלחוטי לתשתית DSL</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1115.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of router (blue)</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>49</price>
+    <dimensions>
+      <width>19.3</width>
+      <depth>18</depth>
+      <height>5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1116</product_id>
+    <type_code>PR</type_code>
+    <category_id>Telecommunications</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.45</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Wireless DSL Router / Repeater (available in blue, black and silver)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>נתב אלחוטי / Repeater לתשתית DSL</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1116.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of router (blue)</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>59</price>
+    <dimensions>
+      <width>19.3</width>
+      <depth>18</depth>
+      <height>5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1117</product_id>
+    <type_code>PR</type_code>
+    <category_id>Telecommunications</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.45</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Wireless DSL Router / Repeater and Print Server (available in blue, black and silver)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>נתב אלחוטי / Repeater ושרת הדפסות לתשתית DSL</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1117.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of router (blue)</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>69</price>
+    <dimensions>
+      <width>19.3</width>
+      <depth>18</depth>
+      <height>5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1118</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.015</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>USB 2.0 High-Speed 64 GB</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>USB 存储器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1118.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the USB Stick 64 GB</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>35</price>
+    <dimensions>
+      <width>1.5</width>
+      <depth>8.7</depth>
+      <height>1.2</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1120</product_id>
+    <type_code>PR</type_code>
+    <category_id>Keyboards</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>1</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Cordless Bluetooth Keyboard with English keys</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>מקלדת אלחוטית בטכנולוגיית Bluetooth, אנגלית בינלאומית</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1120.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the keyboard, english international</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>29</price>
+    <dimensions>
+      <width>51.4</width>
+      <depth>23</depth>
+      <height>4</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1137</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen Monitors</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>18</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optimum Hi-Resolution max. 2048 × 1536 @ 85Hz, Dot Pitch: 0.24mm</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>特大尺寸纯平显示器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1137.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Flat X-large II</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1430</price>
+    <dimensions>
+      <width>54</width>
+      <depth>22</depth>
+      <height>38</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1138</product_id>
+    <type_code>PR</type_code>
+    <category_id>Mice</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.02</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Portable pocket Mouse with retracting cord</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>עכבר קומפקטי</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1138.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of pocket mouse</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>23</price>
+    <dimensions>
+      <width>0.3</width>
+      <depth>0.5</depth>
+      <height>1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1210</product_id>
+    <type_code>PR</type_code>
+    <category_id>PCs</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>PC Power Station with 3,4 Ghz quad-core, 32 GB DDR3 SDRAM, feels like a PC, Windows 8 Pro</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ספק כוח למחשב אישי</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1210.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the PC Power Station</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>2399</price>
+    <dimensions>
+      <width>28</width>
+      <depth>31</depth>
+      <height>43</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1500</product_id>
+    <type_code>PR</type_code>
+    <category_id>Servers</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>18</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Dual socket, quad-core processing server with 1333 MHz Front Side Bus with 10Gb connectivity</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>基础服务器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1500.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Server Basic</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>5000</price>
+    <dimensions>
+      <width>34</width>
+      <depth>35</depth>
+      <height>23</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1501</product_id>
+    <type_code>PR</type_code>
+    <category_id>Servers</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>25</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 10Gb connectivity</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>专业服务器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1501.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Server Professional</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>15000</price>
+    <dimensions>
+      <width>29</width>
+      <depth>30</depth>
+      <height>27</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1502</product_id>
+    <type_code>PR</type_code>
+    <category_id>Servers</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>35</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Dual socket, quad-core processing server with 1644 MHz Front Side Bus with 100Gb connectivity</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>增强型专业服务器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1502.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Server Power Pro</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>25000</price>
+    <dimensions>
+      <width>22</width>
+      <depth>27.3</depth>
+      <height>37</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6130</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen TVs</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.6</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>32-inch, 1366x768 Pixel, 16:9, HDTV ready</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>平板电视 HD32</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6130.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Flat Watch HD32</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1459</price>
+    <dimensions>
+      <width>78</width>
+      <depth>22.1</depth>
+      <height>55</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6131</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen TVs</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>37-inch, 1366x768 Pixel, 16:9, HDTV ready</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>平板电视 HD37</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6131.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Flat Watch HD37</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1199</price>
+    <dimensions>
+      <width>99.1</width>
+      <depth>26</depth>
+      <height>61</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6132</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen TVs</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>1.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>41-inch, 1366x768 Pixel, 16:9, HDTV ready</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>平板电视 HD41</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6132.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Flat Watch HD41</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>899</price>
+    <dimensions>
+      <width>128</width>
+      <depth>23</depth>
+      <height>79.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-7030</product_id>
+    <type_code>PR</type_code>
+    <category_id>PDAs &amp; Organizers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.5</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Our new multifunctional Handheld with phone function in platinum</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Platinberry</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-7030.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Platinberry</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>549</price>
+    <dimensions>
+      <width>8.1</width>
+      <depth>13</depth>
+      <height>12.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-7020</product_id>
+    <type_code>PR</type_code>
+    <category_id>PDAs &amp; Organizers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.5</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Our new multifunctional Handheld with phone function in gold</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Goldberry</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-7020.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Platinberry</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>549</price>
+    <dimensions>
+      <width>8.1</width>
+      <depth>13</depth>
+      <height>12.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-7010</product_id>
+    <type_code>PR</type_code>
+    <category_id>PDAs &amp; Organizers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.5</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Our new multifunctional Handheld with phone function in silver</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Silverberry</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-7010.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Silverberry</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>549</price>
+    <dimensions>
+      <width>8.1</width>
+      <depth>13</depth>
+      <height>12.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-7000</product_id>
+    <type_code>PR</type_code>
+    <category_id>PDAs &amp; Organizers</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.5</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Our new multifunctional Handheld with phone function in copper</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Copperberry</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-7000.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Copperberry</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>549</price>
+    <dimensions>
+      <width>8.1</width>
+      <depth>13</depth>
+      <height>12.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1095</product_id>
+    <type_code>PR</type_code>
+    <category_id>Headsets</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>80</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>5.1 Headset, 40 Hz-20 kHz, Wireless</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>无线 Lovely Sound 5.1 耳机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1095.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Lovely Sound 5.1 Wireless</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>49</price>
+    <dimensions>
+      <width>24</width>
+      <depth>19</depth>
+      <height>23</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1096</product_id>
+    <type_code>PR</type_code>
+    <category_id>Headsets</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>130</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>5.1 Headset, 40 Hz-20 kHz, 3m cable</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Lovely Sound 5.1 耳机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1096.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Lovely Sound 5.1</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>39</price>
+    <dimensions>
+      <width>25</width>
+      <depth>17</depth>
+      <height>19</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1097</product_id>
+    <type_code>PR</type_code>
+    <category_id>Headsets</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>60</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>5.1 Headset, 40 Hz-20 kHz, 1m cable</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>立体声 Lovely Sound 5.1 耳机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1097.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Lovely Sound Stereo</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>29</price>
+    <dimensions>
+      <width>21.3</width>
+      <depth>2.4</depth>
+      <height>19.7</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6123</product_id>
+    <type_code>PR</type_code>
+    <category_id>MP3 Players</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>267</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>MP3-Player with 80 GB SSD and Color Display, can play movies</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Power Pro 播放器 80</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6123.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Power Pro Player 80 SSD</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>299</price>
+    <dimensions>
+      <width>4</width>
+      <depth>6</depth>
+      <height>0.8</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6122</product_id>
+    <type_code>PR</type_code>
+    <category_id>MP3 Players</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>266</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>MP3-Player with 40 GB HDD and Color Display, can play movies</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Power Pro 播放器 40</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6122.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Power Pro Player 40</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>167</price>
+    <dimensions>
+      <width>5.1</width>
+      <depth>8</depth>
+      <height>9.2</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6121</product_id>
+    <type_code>PR</type_code>
+    <category_id>MP3 Players</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>134</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>ITelo Jog-Mate 64 GB HDD and Color Display, can play movies</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ITelo Jog-Mate</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6121.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Basic Booster B</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>63</price>
+    <dimensions>
+      <width>5.1</width>
+      <depth>8</depth>
+      <height>9.2</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6120</product_id>
+    <type_code>PR</type_code>
+    <category_id>MP3 Players</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>134</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>64 GB USB Music-on-a-Stick</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ITelo MusicStick</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6120.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the stick</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>45</price>
+    <dimensions>
+      <width>1.5</width>
+      <depth>6</depth>
+      <height>1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6111</product_id>
+    <type_code>PR</type_code>
+    <category_id>Portable Players</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3.1</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>160 GB HDD, CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Record Movie 播放器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6111.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Record Movie</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>288</price>
+    <dimensions>
+      <width>38</width>
+      <depth>26</depth>
+      <height>6.2</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6110</product_id>
+    <type_code>PR</type_code>
+    <category_id>Portable Players</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.4</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>CD-RW, DVD+R/RW, DVD-R/RW, MPEG 2 (Video-DVD), MPEG 4, VCD, SVCD, DivX, Xvid</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Play Movie 播放器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6110.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Play Movie</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>130</price>
+    <dimensions>
+      <width>37</width>
+      <depth>24</depth>
+      <height>6</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6102</product_id>
+    <type_code>PR</type_code>
+    <category_id>Projectors</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.5</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>1080p, DLP max. 12,3 Meter, 3D-ready</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Beam Breaker B-3 投影仪</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6102.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Beam Breaker B-3</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>889</price>
+    <dimensions>
+      <width>30.4</width>
+      <depth>23.1</depth>
+      <height>23</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6101</product_id>
+    <type_code>PR</type_code>
+    <category_id>Projectors</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>1080p, DLP max.9,34 Meter, 2D-ready</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Beam Breaker B-2 投影仪</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6101.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Beam Breaker B-2</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>679</price>
+    <dimensions>
+      <width>30.4</width>
+      <depth>23.1</depth>
+      <height>23</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-2002</product_id>
+    <type_code>PR</type_code>
+    <category_id>Portable Players</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.72</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>9" LCD Screen, storage holds up to 8 hours, 2 speakers included</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>נגן DVD נייד עם צג LCD בגודל 9 אינץ'</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-2002.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Portable DVD Player with 9" LCD Monitor</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>853.99</price>
+    <dimensions>
+      <width>21</width>
+      <depth>16.5</depth>
+      <height>14</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-6100</product_id>
+    <type_code>PR</type_code>
+    <category_id>Projectors</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>1.7</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>720p, DLP Projector max. 8,45 Meter, 2D</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Beam Breaker B-1 投影仪</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-6100.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Beam Breaker B-1</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>469</price>
+    <dimensions>
+      <width>30.4</width>
+      <depth>23.1</depth>
+      <height>23</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-2027</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.15</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Removable jewel case labels, zero residues (100)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>מדבקות לייזר ניתנות להסרה עבור CD‏/DVD</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-2027.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Removeable CD/DVD Laser Labels</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>8.99</price>
+    <dimensions>
+      <width>5.5</width>
+      <depth>2</depth>
+      <height>2</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-2026</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Quality cables for notebooks and projectors</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ערכת כבלי אודיו/וידיאו - 4 מטרים</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-2026.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Audio/Video Cable Kit - 12 ft</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>29.99</price>
+    <dimensions>
+      <width>21</width>
+      <depth>10.2</depth>
+      <height>13</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-2025</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.65</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Organizer and protective case for 264 CDs and DVDs</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>מארז עבור CD‏/DVD: 264 כיסים</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-2025.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the CD/DVD case: 264 capacity</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>44.99</price>
+    <dimensions>
+      <width>13</width>
+      <depth>13</depth>
+      <height>20</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-2001</product_id>
+    <type_code>PR</type_code>
+    <category_id>Portable Players</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.84</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>10" LCD Screen, storage battery holds up to 8 hours</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>נגן DVD נייד בגודל 10 אינץ'</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-2001.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the 10" Portable DVD Player</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>449.99</price>
+    <dimensions>
+      <width>24</width>
+      <depth>19.5</depth>
+      <height>29</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-2000</product_id>
+    <type_code>PR</type_code>
+    <category_id>Portable Players</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.79</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>7" LCD Screen, storage battery holds up to 6 hours!</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>נגן DVD נייד עם מסך רחב בגודל 7 אינץ' התומך בקובצי MP3</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-2000.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the 7" Widescreen Portable DVD Player w MP3</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>249.99</price>
+    <dimensions>
+      <width>21.4</width>
+      <depth>19</depth>
+      <height>27.6</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1603</product_id>
+    <type_code>PR</type_code>
+    <category_id>PCs</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>6.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>3,4 Ghz quad core, 16 GB DDR3 SDRAM, 4000 GB Hard Disc, Graphic Card: Hurricane GX, Windows 8</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>专业游戏级计算机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1603.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Gaming Monster Pro</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1700</price>
+    <dimensions>
+      <width>27</width>
+      <depth>28</depth>
+      <height>42</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1602</product_id>
+    <type_code>PR</type_code>
+    <category_id>PCs</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>5.9</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>3,4 Ghz quad core, 8 GB DDR3 SDRAM, 2000 GB Hard Disc, Graphic Card: Gladiator MX, Windows 8</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>游戏级计算机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1602.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Gaming Monster</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1200</price>
+    <dimensions>
+      <width>26.5</width>
+      <depth>34</depth>
+      <height>47</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1601</product_id>
+    <type_code>PR</type_code>
+    <category_id>PCs</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>5.3</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>2,8 Ghz dual core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Graphic Card: Gladiator MX, Windows 8</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>专业家用计算机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1601.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Family PC Pro</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>900</price>
+    <dimensions>
+      <width>25</width>
+      <depth>31.7</depth>
+      <height>40.2</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1600</product_id>
+    <type_code>PR</type_code>
+    <category_id>PCs</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>2,8 Ghz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, Graphic Card: Proctra X, Windows 8</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>基础家用计算机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1600.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Family PC Basic</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>600</price>
+    <dimensions>
+      <width>21.4</width>
+      <depth>29</depth>
+      <height>38</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1119</product_id>
+    <type_code>PR</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>88</weight_measure>
+    <weight_unit>G</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Universal Travel Adapter</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>旅行适配器</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1119.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Universal Travel Adapter</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>79</price>
+    <dimensions>
+      <width>2</width>
+      <depth>3.1</depth>
+      <height>3.9</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-8000</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook with 2,80 GHz dual core, 4 GB DDR3 SDRAM, 500 GB Hard Disc, Windows 8</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ITelO FlexTop I4000</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-8000.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the USB Stick 2 GB</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>799</price>
+    <dimensions>
+      <width>31</width>
+      <depth>19</depth>
+      <height>3.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-8001</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook with 2,80 GHz dual core, 8 GB DDR3 SDRAM, 500 GB Hard Disc, Windows 8</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ITelO FlexTop I6300c</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-8001.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the USB Stick 2 GB</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>999</price>
+    <dimensions>
+      <width>32</width>
+      <depth>20</depth>
+      <height>3.4</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-8002</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3.5</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook with 2,80 GHz quad core, 4 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ITelO FlexTop I9100</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-8002.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the USB Stick 2 GB</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1199</price>
+    <dimensions>
+      <width>38</width>
+      <depth>21</depth>
+      <height>4.1</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-8003</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Notebook with 2,80 GHz quad core, 8 GB DDR3 SDRAM, 1000 GB Hard Disc, Windows 8</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>ITelO FlexTop I9800</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-8003.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the USB Stick 2 GB</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1388</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>PF-1000</product_id>
+    <type_code>AD</type_code>
+    <category_id>Computer System Accessories</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.01</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Flyer for our product palette</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>产品名录</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/PF-1000.jpg</web_adress>
+      <detail_description/>
+    </web_resource>
+    <price>0</price>
+    <dimensions>
+      <width>46</width>
+      <depth>30</depth>
+      <height>3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-9999</product_id>
+    <type_code>PR</type_code>
+    <category_id>Tablets</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>10.1-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>מחשב לוח גדול</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-9999.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of tablet pc</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>749</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-9998</product_id>
+    <type_code>PR</type_code>
+    <category_id>Smartphones</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.75</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>5 Megapixel Camera, Wi-Fi 802.11 b/g/n, Bluetooth, GPS A-GPS support</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>טלפון חכם בטא</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-9998.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of smartphone</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>699</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-9997</product_id>
+    <type_code>PR</type_code>
+    <category_id>Tablets</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>6-Inch E Ink Screen, Access To e-book Store, Adjustable Font Styles and Sizes, Stores Up To 1,000 Books</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>קובץ ReadMe של קורא ספרים אלקטרוני</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-9997.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of reader</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>633</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-9996</product_id>
+    <type_code>PR</type_code>
+    <category_id>Accessories</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.03</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Stylish tablet pouch, protects from scratches, color: black</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>כיסוי למחשב לוח</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-9996.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of tablet case</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>20</price>
+    <dimensions>
+      <width>25</width>
+      <depth>40</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-9995</product_id>
+    <type_code>PR</type_code>
+    <category_id>Accessories</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.02</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Durable high quality plastic bump-sleeve, lightweight, protects from scratches, rubber coating, multiple colors available, Accurate design and cut-outs for your device, snap-on design</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>כיסוי לטלפון חכם</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-9995.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of smartphone cover</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>15</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-9994</product_id>
+    <type_code>PR</type_code>
+    <category_id>Camcorders</category_id>
+    <main_category>TV, Video &amp; HiFi</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>1920x1080 Full HD, image stabilization reduces blur, 27x Optical / 32x Extended Zoom, wide angle Lens, 2.7" wide LCD display</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Camcorder View 摄像机</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-9994.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of camcorder</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>1388</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>27</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-9993</product_id>
+    <type_code>PR</type_code>
+    <category_id>Tablets</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>3.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage, 4325 mAh battery (Up to 8 hours of active use)</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>מחשב לוח קטן</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-9993.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of mini tablet pc</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>833</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-9992</product_id>
+    <type_code>PR</type_code>
+    <category_id>Smartphones</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.75</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>טלפון חכם אלפא</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-9992.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of alpha smartphone</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>599</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-9991</product_id>
+    <type_code>PR</type_code>
+    <category_id>Accessories</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.02</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Button Clasp, Quality Material, 100% Leather, compatible with many smartphone models</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Funda de piel para smartphone</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-9991.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of smartphone case</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>25</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1251</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Flexible Laptop with 2,5 GHz Quad Core, 15" HD TN, 16 GB DDR SDRAM, 256 GB SSD, Windows 10 Pro</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Astro Laptop 1516</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1251-FRONT.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Astro Laptop 1516</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>989</price>
+    <dimensions>
+      <width>30</width>
+      <depth>18</depth>
+      <height>3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1252</product_id>
+    <type_code>PR</type_code>
+    <category_id>Smartphones</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.75</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>6 inch 1280x800 HD display (216 ppi), Quad-core processor, 8 GB internal storage (actual formatted capacity will be less), 3050 mAh battery (Up to 8 hours of active use), grey or black</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Astro Phone 6</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1252-FRONT.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Astro Phone 6</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>649</price>
+    <dimensions>
+      <width>8</width>
+      <depth>6</depth>
+      <height>1.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1253</product_id>
+    <type_code>PR</type_code>
+    <category_id>Notebooks</category_id>
+    <main_category>Computer Systems</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>4.2</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Flexible Laptop with 2,5 GHz Dual Core, 14" HD+ TN, 8 GB DDR SDRAM, 324 GB SSD, Windows 10 Pro</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Benda Laptop 1408</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1253-LEFT.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Benda Laptop 1408</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>976</price>
+    <dimensions>
+      <width>30</width>
+      <depth>18</depth>
+      <height>3</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1254</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen Monitors</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>15</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optimum Hi-Resolution Widescreen max. 1920 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, D-Sub</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Bending Screen 21HD</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1254-FRONT.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Bending Screen 21HD</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>250</price>
+    <dimensions>
+      <width>37</width>
+      <depth>12</depth>
+      <height>36</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1255</product_id>
+    <type_code>PR</type_code>
+    <category_id>Flat Screen Monitors</category_id>
+    <main_category>Computer Components</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>16</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>Optimum Hi-Resolution Widescreen max. 2048 x 1080 @ 85Hz, Dot Pitch: 0.27mm, HDMI, D-Sub</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Broad Screen 22HD</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1255-FRONT.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Broad Screen 22HD</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>270</price>
+    <dimensions>
+      <width>39</width>
+      <depth>12</depth>
+      <height>38</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1256</product_id>
+    <type_code>PR</type_code>
+    <category_id>Smartphones</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>0.75</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>7 inch 1280x800 HD display (216 ppi), Quad-core processor, 16 GB internal storage (actual formatted capacity will be less), 4325 mAh battery (Up to 8 hours of active use), white or black</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Cerdik Phone 7</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1256-FRONT.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of the Cerdik Phone 7</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>549</price>
+    <dimensions>
+      <width>9</width>
+      <depth>15</depth>
+      <height>1.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1257</product_id>
+    <type_code>PR</type_code>
+    <category_id>Tablets</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.8</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>10.5-inch Multitouch HD Screen (1280 x 800), 16GB Internal Memory, Wireless N Wi-Fi; Bluetooth, GPS Enabled, 1GHz Dual-Core Processor</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Cepat Tablet 10.5</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1257-FRONT.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of Cepat Tablet 10.5</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>549</price>
+    <dimensions>
+      <width>48</width>
+      <depth>31</depth>
+      <height>4.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+  <product>
+    <product_id>HT-1258</product_id>
+    <type_code>PR</type_code>
+    <category_id>Tablets</category_id>
+    <main_category>Smartphones &amp; Tablets</main_category>
+    <tax_tarif_code>1</tax_tarif_code>
+    <measure_unit>EA</measure_unit>
+    <weight_measure>2.5</weight_measure>
+    <weight_unit>KG</weight_unit>
+    <description>
+      <langu>EN</langu>
+      <text>8-inch Multitouch HD Screen (2000 x 1500) 32GB Internal Memory, Wireless N Wi-Fi, Bluetooth, GPS Enabled, 1.5 GHz Quad-Core Processor</text>
+    </description>
+    <prod_name>
+      <langu>EN</langu>
+      <name>Cepat Tablet 8</name>
+    </prod_name>
+    <web_resource>
+      <web_adress>/sap/public/bc/NWDEMO_MODEL/IMAGES/HT-1258-FRONT.jpg</web_adress>
+      <detail_description>
+        <langu>EN</langu>
+        <text>Image of Cepat Tablet 8</text>
+      </detail_description>
+      <type>jpg</type>
+    </web_resource>
+    <price>529</price>
+    <dimensions>
+      <width>38</width>
+      <depth>21</depth>
+      <height>3.5</height>
+      <unit>cm</unit>
+    </dimensions>
+  </product>
+</productData>

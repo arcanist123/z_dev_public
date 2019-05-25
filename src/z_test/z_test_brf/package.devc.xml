@@ -3,7 +3,7 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <DEVC>
-    <CTEXT>$Z_TEST_BRF</CTEXT>
+    <CTEXT>test brf framework</CTEXT>
    </DEVC>
   </asx:values>
  </asx:abap>
