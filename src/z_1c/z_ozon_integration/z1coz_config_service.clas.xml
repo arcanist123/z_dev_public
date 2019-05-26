@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_1COZ_CATEGORIES_SERVICE</CLSNAME>
+    <CLSNAME>Z1COZ_CONFIG_SERVICE</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Categories service</DESCRIPT>
+    <DESCRIPT>configuration service for ozon</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

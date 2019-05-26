@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_1COZ_CLIENT</CLSNAME>
+    <CLSNAME>Z1COZ_PRODUCTS</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>client</DESCRIPT>
+    <DESCRIPT>products</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>

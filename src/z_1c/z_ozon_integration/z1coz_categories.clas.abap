@@ -1,7 +1,8 @@
-CLASS zcl_1coz_client DEFINITION
+CLASS z1coz_categories DEFINITION
+
   PUBLIC
   FINAL
-  CREATE PUBLIC .
+  CREATE private .
 
   PUBLIC SECTION.
   PROTECTED SECTION.
@@ -10,5 +11,5 @@ ENDCLASS.
 
 
 
-CLASS zcl_1coz_client IMPLEMENTATION.
+CLASS z1coz_categories IMPLEMENTATION.
 ENDCLASS.

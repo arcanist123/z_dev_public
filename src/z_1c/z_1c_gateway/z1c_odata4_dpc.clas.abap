@@ -20,21 +20,22 @@ ENDCLASS.
 
 CLASS z1c_odata4_dpc IMPLEMENTATION.
   METHOD /iwbep/if_v4_dp_basic~create_entity.
+    TRY.
+        "get the source data
+        DATA ls_data TYPE  z1c_odata4_mpc=>t_data.
+        io_request->get_busi_data(  IMPORTING es_busi_data = ls_data ).
 
-    "get the source data
-    DATA ls_data TYPE  z1c_odata4_mpc=>t_data.
-    io_request->get_busi_data(  IMPORTING es_busi_data = ls_data ).
+        "depending on type of request - execute different type of processing
+        CASE z1c_entity_types=>get_entity_type( ls_data-file_name ).
+          WHEN z1c_entity_types=>json_to_upd.
+            ls_data-file_data = z_1c_json_to_upd_parser=>create( ls_data-file_data )->parse(  ).
+        ENDCASE.
 
-    "depending on type of request - execute different type of processing
-    CASE z1c_entity_types=>get_entity_type( ls_data-file_name ).
-      WHEN z1c_entity_types=>json_to_upd.
-        ls_data-file_data = z_1c_json_to_upd_parser=>create( ls_data-file_data )->parse(  ).
-    ENDCASE.
+        io_response->set_busi_data( ls_data ).
 
-    io_response->set_busi_data( ls_data ).
-
-    io_response->set_is_done( VALUE #( busi_data = abap_true )  ).
-
+        io_response->set_is_done( VALUE #( busi_data = abap_true )  ).
+      CATCH zcx_exception INTO DATA(lo_ex).
+    ENDTRY.
   ENDMETHOD.
 
   METHOD /iwbep/if_v4_dp_basic~delete_entity.

@@ -5,7 +5,7 @@ CLASS z1c_entity_types DEFINITION PUBLIC CREATE PRIVATE FINAL.
     CLASS-DATA json_to_upd TYPE REF TO z1c_entity_types READ-ONLY.
     CLASS-DATA json_to_excel   TYPE REF TO z1c_entity_types READ-ONLY.
 
-    DATA value TYPE symsgty READ-ONLY.
+    DATA value TYPE ty_type READ-ONLY.
 
     CLASS-METHODS class_constructor.
     METHODS constructor IMPORTING value TYPE ty_type.
@@ -36,8 +36,8 @@ CLASS z1c_entity_types IMPLEMENTATION.
 
 
     ro_entity_type = COND #(
-        WHEN iv_entity_type = json_to_excel->value THEN json_to_excel
-        WHEN iv_entity_type = json_to_upd->value THEN json_to_upd
+        WHEN to_upper( iv_entity_type ) = json_to_excel->value THEN json_to_excel
+        WHEN to_upper( iv_entity_type ) = json_to_upd->value THEN json_to_upd
         ELSE THROW zcx_exception( MESSAGE e888(sabapdemos) WITH 'Illegal value!' ) ).
 
   ENDMETHOD.

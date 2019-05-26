@@ -3,9 +3,9 @@
  <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
   <asx:values>
    <VSEOCLASS>
-    <CLSNAME>ZCL_1COZ_ABSTRACT_SERVICE</CLSNAME>
+    <CLSNAME>Z1COZ_SERVICE</CLSNAME>
     <LANGU>E</LANGU>
-    <DESCRIPT>Abstract service of ozon</DESCRIPT>
+    <DESCRIPT>service to connect to the ozon gateway</DESCRIPT>
     <STATE>1</STATE>
     <CLSCCINCL>X</CLSCCINCL>
     <FIXPT>X</FIXPT>
