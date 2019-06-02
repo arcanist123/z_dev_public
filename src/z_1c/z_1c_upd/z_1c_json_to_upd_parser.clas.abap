@@ -8,6 +8,7 @@ CLASS z_1c_json_to_upd_parser DEFINITION
       :
       BEGIN OF t_material,
         material_attribute_name TYPE string,
+        material_article        TYPE string,
         material_id             TYPE string,
         material_line_number    TYPE i,
         material_name           TYPE string,
@@ -65,16 +66,23 @@ CLASS z_1c_json_to_upd_parser DEFINITION
         i_lv_upd        TYPE string
       RETURNING
         VALUE(r_result) TYPE string.
+    METHODS update_ozon_id
+      IMPORTING
+        is_document     TYPE z_1c_json_to_upd_parser=>t_document
+      RETURNING
+        VALUE(r_result) TYPE z_1c_json_to_upd_parser=>t_document.
 ENDCLASS.
 
 
 
-CLASS z_1c_json_to_upd_parser IMPLEMENTATION.
+CLASS Z_1C_JSON_TO_UPD_PARSER IMPLEMENTATION.
+
 
   METHOD constructor.
     me->document_base64 = iv_document_base64.
 
   ENDMETHOD.
+
 
   METHOD create.
 
@@ -82,11 +90,28 @@ CLASS z_1c_json_to_upd_parser IMPLEMENTATION.
 
   ENDMETHOD.
 
-  METHOD parse.
 
-    DATA(ls_document) = me->get_document_from_base64( me->document_base64 ).
-    DATA(lv_upd) = me->get_upd( ls_document ).
-    rv_upd_base64 = me->encode_upd_base64( lv_upd ).
+  METHOD encode_upd_base64.
+*convert string to xstring
+    DATA lv_xstring TYPE xstring.
+    CALL FUNCTION 'SCMS_STRING_TO_XSTRING'
+      EXPORTING
+        text   = i_lv_upd
+      IMPORTING
+        buffer = lv_xstring
+      EXCEPTIONS
+        failed = 1
+        OTHERS = 2.
+
+*Find the number of bites of xstring
+
+    DATA(lv_len)  = xstrlen( lv_xstring ).
+    CALL FUNCTION 'SCMS_BASE64_ENCODE_STR'
+      EXPORTING
+        input  = lv_xstring
+      IMPORTING
+        output = r_result.
+
   ENDMETHOD.
 
 
@@ -96,6 +121,13 @@ CLASS z_1c_json_to_upd_parser IMPLEMENTATION.
 
     r_result = me->get_document_from_json( lv_document_json ).
 
+
+  ENDMETHOD.
+
+
+  METHOD get_document_from_json.
+    /ui2/cl_json=>deserialize(  EXPORTING   json = iv_document_json
+                                CHANGING    data = r_result ).
 
   ENDMETHOD.
 
@@ -117,6 +149,7 @@ CLASS z_1c_json_to_upd_parser IMPLEMENTATION.
         failed = 1
         OTHERS = 2.
 
+
 *Convert Text to Binary
     CALL FUNCTION 'SCMS_XSTRING_TO_BINARY'
       EXPORTING
@@ -137,13 +170,6 @@ CLASS z_1c_json_to_upd_parser IMPLEMENTATION.
       EXCEPTIONS
         failed       = 1
         OTHERS       = 2.
-  ENDMETHOD.
-
-
-  METHOD get_document_from_json.
-    /ui2/cl_json=>deserialize(  EXPORTING   json = iv_document_json
-                                CHANGING    data = r_result ).
-
   ENDMETHOD.
 
 
@@ -177,28 +203,31 @@ CLASS z_1c_json_to_upd_parser IMPLEMENTATION.
   ENDMETHOD.
 
 
-  METHOD encode_upd_base64.
-*convert string to xstring
-    DATA lv_xstring TYPE xstring.
-    CALL FUNCTION 'SCMS_STRING_TO_XSTRING'
-      EXPORTING
-        text   = i_lv_upd
-      IMPORTING
-        buffer = lv_xstring
-      EXCEPTIONS
-        failed = 1
-        OTHERS = 2.
+  METHOD parse.
+    TRY.
 
-*Find the number of bites of xstring
+        DATA(ls_document) = me->get_document_from_base64( me->document_base64 ).
+        ls_document = me->update_ozon_id( ls_document ).
+        DATA(lv_upd) = me->get_upd( ls_document ).
+        rv_upd_base64 = me->encode_upd_base64( lv_upd ).
 
-    DATA(lv_len)  = xstrlen( lv_xstring ).
+      CATCH zcx_1c_exception INTO DATA(lo_cx).
 
-    CALL FUNCTION 'SCMS_BASE64_ENCODE_STR'
-      EXPORTING
-        input  = lv_xstring
-      IMPORTING
-        output = r_result.
+
+    ENDTRY.
 
   ENDMETHOD.
 
+
+  METHOD update_ozon_id.
+    DATA(ls_document) = is_document.
+
+    DATA(lt_products) = NEW z1coz_products( )->get_products( ).
+    DATA(lo_ozon_id_parser) = NEW lcl_ozon_id_parser( lt_products ).
+    LOOP AT ls_document-materials REFERENCE INTO DATA(ls_material).
+      ls_material->* = lo_ozon_id_parser->update_ozon_id( ls_material ).
+    ENDLOOP.
+
+    r_result = ls_document.
+  ENDMETHOD.
 ENDCLASS.
