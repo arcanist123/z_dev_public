@@ -21,9 +21,14 @@ CLASS z_1c_json_to_upd_parser DEFINITION
     TYPES tt_materials TYPE STANDARD TABLE OF t_material WITH EMPTY KEY.
     TYPES:
       BEGIN OF t_document,
-        date         TYPE string,
-        invoice_code TYPE string,
-        materials    TYPE tt_materials,
+        date               TYPE string,
+        invoice_code       TYPE string,
+        materials          TYPE tt_materials,
+        seller_first_name  TYPE string,
+        seller_middle_name TYPE string,
+        seller_last_name   TYPE string,
+        seller_org_name    TYPE string,
+        seller_inn         TYPE string,
       END OF t_document.
 
     CLASS-METHODS create
@@ -75,7 +80,7 @@ ENDCLASS.
 
 
 
-CLASS Z_1C_JSON_TO_UPD_PARSER IMPLEMENTATION.
+CLASS z_1c_json_to_upd_parser IMPLEMENTATION.
 
 
   METHOD constructor.
