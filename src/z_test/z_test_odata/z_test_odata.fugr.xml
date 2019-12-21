@@ -29,13 +29,11 @@
        <PARAMETER>IV_STRING</PARAMETER>
        <KIND>P</KIND>
        <STEXT>source string</STEXT>
-       <INDEX> 001</INDEX>
       </RSFDO>
       <RSFDO>
        <PARAMETER>EV_STRING</PARAMETER>
        <KIND>P</KIND>
        <STEXT>result of compression</STEXT>
-       <INDEX> 002</INDEX>
       </RSFDO>
      </DOCUMENTATION>
     </item>
