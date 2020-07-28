@@ -98,6 +98,12 @@
      <MASK>  CHAR</MASK>
     </DD03P>
    </DD03P_TABLE>
+   <TABL_EXTRAS>
+    <TDDAT>
+     <TABNAME>Z1COZ_CONFIG</TABNAME>
+     <CCLASS>X500</CCLASS>
+    </TDDAT>
+   </TABL_EXTRAS>
   </asx:values>
  </asx:abap>
 </abapGit>
